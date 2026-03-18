@@ -1,0 +1,44 @@
+{
+    "Name": "Multimodal evaluation of network activity and optogenetic interventions in human hippocampal slices",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "High-density microelectrode array (HD-MEA) recordings of human hippocampal brain slices obtained from epilepsy patients, including optogenetic stimulus and several hyperactivity-provoking conditions of culture medium. This data accompanies the manuscript by Andrews, Geng, Voitiuk, et al. 2024.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Andrews, John P.",
+        "Geng, Jinghui",
+        "Voitiuk, Kateryna",
+        "Elliott, Matthew A. T.",
+        "Shin, David",
+        "Robbins, Ash",
+        "Spaeth, Alex",
+        "Wang, Albert",
+        "Li, Lin",
+        "Solis, Daniel",
+        "Keefe, Matthew G.",
+        "Sevetson, Jessica L.",
+        "Rivera de Jes\u00fas, Julio A.",
+        "Donohue, Kevin",
+        "Larson, H. Hanh",
+        "Ehrlich, Drew",
+        "Auguste, Kurtis I.",
+        "Salama, Sofie R.",
+        "Sohal, Vikaas",
+        "Sharf, Tal",
+        "Haussler, David",
+        "Cadwell, Cathryn",
+        "Schaffer, David",
+        "Chang, Edward F.",
+        "Teodorescu, Mircea",
+        "Nowakowski, Tomasz J."
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
